@@ -16,7 +16,7 @@ If the correct keyword is entered in time, the bomb gets defused successfully. O
 - Dynamic DOM updates
 - Responsive design using Bootstrap
 
----
+
 
 ## 🛠️ Technologies Used
 - HTML5
