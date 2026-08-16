@@ -7,7 +7,7 @@ This project simulates a bomb countdown timer.
 The user must type the keyword **"defuse"** before the timer reaches zero.  
 If the correct keyword is entered in time, the bomb gets defused successfully. Otherwise, the timer displays **"BOOM"**.
 
----
+
 
 ## 🚀 Features
 - Countdown timer
